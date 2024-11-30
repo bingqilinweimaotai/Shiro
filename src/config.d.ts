@@ -16,7 +16,7 @@ declare global {
     hero: Hero
     module: Module
     color?: AccentColor
-
+    bg?: String
     custom?: Custom
 
     poweredBy?: {
